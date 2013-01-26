@@ -354,6 +354,6 @@
   <project path="tools/build" name="platform/tools/build" groups="toolsbuild" />
   <project path="tools/motodev" name="platform/tools/motodev" />
   
-  <project path="platform_manifest" name="VengeanceAOSP/platform_manifest" remote="VengeanceAOSP" revision="jb-mr1" />
+  <project path="platform_manifest" name="VengeanceAOSP/platform_manifest" remote="vengeance" revision="jb-mr1" />
 
 </manifest>
